@@ -1,0 +1,201 @@
+CustomerID,CustomerName,Email,Segment,RegionID,IsReturningCustomer
+CUST1000,Norma Fisher,johnsonlaura@ferguson-wilson.com,Consumer,1,True
+CUST1001,Jorge Sullivan,perrykeith@taylor.com,Corporate,4,False
+CUST1002,Elizabeth Woods,yfigueroa@yahoo.com,Consumer,3,False
+CUST1003,Susan Wagner,owatson@gmail.com,Corporate,4,False
+CUST1004,Peter Montgomery,terrypatrick@mcdonald.info,Corporate,4,True
+CUST1005,Theodore Mcgrath,thomasneal@yahoo.com,Home Office,3,True
+CUST1006,Stephanie Collins,wallacedouglas@yahoo.com,Consumer,1,False
+CUST1007,Stephanie Sutton,anthonyruiz@mathis.com,Home Office,3,True
+CUST1008,Brian Hamilton,warddarren@gmail.com,Consumer,4,False
+CUST1009,Susan Levy,jessica32@hotmail.com,Consumer,3,True
+CUST1010,Sean Green,danielmurray@yahoo.com,Consumer,3,True
+CUST1011,Kimberly Smith,markwong@hotmail.com,Home Office,2,True
+CUST1012,Jennifer Summers,sethfletcher@hotmail.com,Corporate,2,False
+CUST1013,April Snyder,jasonlopez@yahoo.com,Home Office,4,True
+CUST1014,Dana Nguyen,yroman@hotmail.com,Home Office,4,False
+CUST1015,Cheryl Bradley,scottharris@williams.com,Consumer,1,True
+CUST1016,Walter Pratt,brian23@evans.com,Corporate,4,True
+CUST1017,Bobby Flores,oellis@hotmail.com,Corporate,1,False
+CUST1018,Tasha Rodriguez,thenry@yahoo.com,Corporate,1,False
+CUST1019,Michelle Kelley,joseph00@bailey.com,Corporate,3,True
+CUST1020,Kimberly Maynard,buchananerin@sanders.com,Consumer,3,True
+CUST1021,Laurie Wallace,nortonmarcus@barry-scott.net,Corporate,4,True
+CUST1022,Janice Johnston,miguelclark@reed.com,Consumer,2,False
+CUST1023,Collin Lopez,wscott@hotmail.com,Consumer,2,True
+CUST1024,Mary Alvarez,torresandrea@murray.info,Corporate,1,True
+CUST1025,Peter Mcdowell,dwerner@wilson-miller.com,Home Office,4,True
+CUST1026,Sarah Villanueva,nhenson@salazar-meyers.net,Consumer,1,False
+CUST1027,Kimberly Myers,haleyjohn@gmail.com,Home Office,3,False
+CUST1028,Desiree Cain,sarah56@hawkins.org,Consumer,4,False
+CUST1029,Stephanie Lawrence,kimberly89@herrera-green.com,Corporate,4,True
+CUST1030,Lauren Hayes,mendezjennifer@quinn.com,Corporate,2,True
+CUST1031,Whitney Stark,harmonzachary@gmail.com,Home Office,4,True
+CUST1032,Angela Salazar,hbrewer@cunningham.net,Consumer,2,False
+CUST1033,Mr. Ryan Sanchez,jodivalenzuela@gmail.com,Corporate,4,False
+CUST1034,Autumn Robinson,jesus74@hotmail.com,Corporate,3,True
+CUST1035,Faith Cabrera,lisatran@richardson-walters.com,Corporate,1,True
+CUST1036,Charles Wolfe,theresadixon@gmail.com,Consumer,2,False
+CUST1037,Kenneth Kent,kimberlyhampton@saunders.com,Home Office,2,True
+CUST1038,Melanie Johnson,lgomez@fuller.org,Consumer,4,False
+CUST1039,Lisa Johnston,tracy40@peters.info,Home Office,4,True
+CUST1040,Jacob Hooper,janet14@gmail.com,Home Office,4,False
+CUST1041,Alex Woodward,lorrainefloyd@yahoo.com,Consumer,2,True
+CUST1042,Caleb Clark,benjaminbarber@cooper.com,Home Office,2,False
+CUST1043,Taylor Johnson,emily40@yahoo.com,Consumer,2,True
+CUST1044,Brian Green,michaelhenry@johnson.com,Consumer,4,False
+CUST1045,Matthew Bell,carl05@henderson.biz,Consumer,4,False
+CUST1046,Jonathan Williams,larry56@smith-macdonald.net,Corporate,3,False
+CUST1047,William Gonzalez,cunninghamdavid@yahoo.com,Corporate,3,False
+CUST1048,Nicholas Massey,masonchristy@palmer.com,Home Office,3,False
+CUST1049,Caroline Chambers,johnjohnson@newton.net,Consumer,1,False
+CUST1050,Amy Lowe,simmonsmichelle@oliver.com,Consumer,4,True
+CUST1051,Gloria King,matthew60@randolph.com,Corporate,4,True
+CUST1052,Jessica Thompson,wyoung@moss.com,Consumer,2,True
+CUST1053,Jason Carroll,ablackburn@yahoo.com,Corporate,3,True
+CUST1054,Emily Howard,xmadden@hotmail.com,Home Office,4,True
+CUST1055,Danielle Castro,bryantjennifer@yahoo.com,Home Office,2,True
+CUST1056,Patrick Rogers,rwilliams@hotmail.com,Consumer,4,True
+CUST1057,Douglas Allen,erin94@gill.biz,Corporate,4,False
+CUST1058,Heather Roberts,darrenholden@gmail.com,Corporate,2,True
+CUST1059,Travis Schultz,sabrinalam@yahoo.com,Corporate,2,True
+CUST1060,Michelle Hughes,cunninghamstephanie@carter-carter.info,Corporate,2,True
+CUST1061,Matthew Smith,aarcher@gmail.com,Home Office,1,False
+CUST1062,George Allen,amartinez@castillo.com,Home Office,3,True
+CUST1063,Jamie Hutchinson,dunnrodney@moreno.com,Home Office,3,True
+CUST1064,Jennifer Morales,rfischer@mitchell-patterson.com,Consumer,1,True
+CUST1065,Jennifer Bates,veronica36@gmail.com,Home Office,2,True
+CUST1066,Jeremy Green,kristenmiles@cruz.biz,Corporate,2,False
+CUST1067,Joseph Freeman,coxtina@frazier.com,Consumer,1,False
+CUST1068,Nicole Henson,simonjohn@gmail.com,Corporate,4,True
+CUST1069,Eric Owens PhD,sierrahouse@gmail.com,Home Office,1,False
+CUST1070,Robin Lopez,juliecole@hotmail.com,Consumer,1,True
+CUST1071,Miss Angela Swanson DVM,frankmclean@walters-shepard.com,Consumer,4,True
+CUST1072,Michael Stewart,chelsea14@gmail.com,Home Office,3,True
+CUST1073,Mitchell Smith,farmerjames@yahoo.com,Consumer,2,False
+CUST1074,Kelsey Davis,orowe@hotmail.com,Consumer,3,True
+CUST1075,Matthew Russo,aguilarmichael@hotmail.com,Consumer,2,False
+CUST1076,William Garcia,mark06@mccall-taylor.com,Consumer,3,False
+CUST1077,Jennifer Miller,adam31@hotmail.com,Consumer,1,True
+CUST1078,Jesse Sparks,edwardsmaureen@gmail.com,Consumer,3,False
+CUST1079,Brandi Meyer,wwhitehead@hotmail.com,Home Office,1,False
+CUST1080,Hannah Wiggins,mlambert@gmail.com,Consumer,2,True
+CUST1081,Albert Williams,william22@gmail.com,Home Office,2,True
+CUST1082,Kristin Potts,blairapril@hotmail.com,Corporate,2,True
+CUST1083,Susan Williams,melvinwillis@gmail.com,Corporate,1,True
+CUST1084,Meredith Rios,lisaharris@murphy-erickson.com,Corporate,4,True
+CUST1085,Stephanie Bowman,katherinecole@gmail.com,Consumer,1,True
+CUST1086,Joshua Clark,darlenejohnson@meyers-jones.info,Corporate,4,True
+CUST1087,Alexa Hernandez,tboyd@durham-taylor.net,Corporate,1,True
+CUST1088,Richard Higgins,hoovermatthew@garcia.com,Corporate,1,True
+CUST1089,Marc Williams,martha85@hotmail.com,Consumer,1,False
+CUST1090,William Roberts,loganjohnson@martinez.com,Corporate,1,True
+CUST1091,Joshua Carter,halelaura@gmail.com,Home Office,2,False
+CUST1092,David Williams,samantha16@alexander.org,Consumer,4,True
+CUST1093,Joseph Jones,anna76@gmail.com,Corporate,4,True
+CUST1094,Gary Perry,mlang@brown-davis.com,Home Office,1,False
+CUST1095,Terry Wells,thompsonchristina@hotmail.com,Consumer,4,True
+CUST1096,Vanessa Cooper,stephen87@miller-williams.biz,Home Office,3,False
+CUST1097,Michael Simmons,wongcody@gmail.com,Consumer,3,False
+CUST1098,Nicholas Kline,stephanie70@gmail.com,Corporate,2,True
+CUST1099,Lori Bennett,smithmatthew@hotmail.com,Home Office,2,True
+CUST1100,Margaret Jones,gregmccall@frazier.com,Home Office,2,True
+CUST1101,Paul Brown,obenjamin@sanders.com,Corporate,3,False
+CUST1102,James Stone,michaelmartin@ford-walter.com,Consumer,2,True
+CUST1103,John Richards,martinbrandy@hotmail.com,Corporate,2,False
+CUST1104,Jenny Richardson,zoesmith@yahoo.com,Corporate,1,False
+CUST1105,Debbie Waters MD,williamssara@carr.biz,Consumer,2,False
+CUST1106,Austin Boyer,rgraham@dawson-nielsen.com,Home Office,3,True
+CUST1107,Stephanie Hayes,ajones@hopkins.biz,Home Office,2,True
+CUST1108,Barbara Sanders,zjames@brewer.org,Home Office,2,False
+CUST1109,Andrew Gould,whitney85@johnson.com,Home Office,1,True
+CUST1110,Charles Gonzalez,carrmichelle@yahoo.com,Corporate,1,True
+CUST1111,Joshua Hernandez,thomasphilip@simon-bray.biz,Home Office,2,True
+CUST1112,Victoria Hernandez MD,kmunoz@peterson.com,Home Office,2,True
+CUST1113,Sherry Simpson,mahoneymichael@hotmail.com,Home Office,3,False
+CUST1114,Erica Jimenez,wmccoy@gmail.com,Home Office,4,True
+CUST1115,Mr. Dakota Lynch II,gregory95@james-williams.net,Home Office,4,True
+CUST1116,Victor Nolan,flemingjoseph@hotmail.com,Consumer,2,True
+CUST1117,Amanda Hernandez,dennis19@martin-jordan.biz,Corporate,4,False
+CUST1118,Richard Kirby,mayjasmine@gmail.com,Home Office,4,True
+CUST1119,Michelle Roman,garyclark@gmail.com,Home Office,4,True
+CUST1120,Bradley Melton,lorikelly@fitzgerald.com,Corporate,3,True
+CUST1121,Danny Williams,rachel58@yahoo.com,Home Office,3,True
+CUST1122,Ryan Rivera,vrollins@torres.com,Corporate,2,True
+CUST1123,Charles Douglas,ahunt@yahoo.com,Consumer,3,True
+CUST1124,Kathy Santana,dylansilva@bush.com,Home Office,4,True
+CUST1125,Laura Gregory,haley92@miller-johnson.com,Home Office,3,False
+CUST1126,Norma Mooney,rflores@yahoo.com,Consumer,1,True
+CUST1127,Susan Harris,elizabeth32@hotmail.com,Home Office,4,False
+CUST1128,Linda Petersen,anthonyday@johns.biz,Consumer,4,False
+CUST1129,Dr. James Willis,zerickson@smith-taylor.biz,Consumer,2,True
+CUST1130,Rebecca Sandoval,ycunningham@schneider.com,Home Office,2,True
+CUST1131,Christopher Hunter,nwilliams@adams.info,Consumer,2,True
+CUST1132,Austin Heath,obaker@hotmail.com,Home Office,3,True
+CUST1133,Elizabeth Russell,kevinlynch@gmail.com,Home Office,2,False
+CUST1134,Amy Davidson,riverstimothy@hotmail.com,Home Office,2,True
+CUST1135,Dustin Greer,bakerjerry@gmail.com,Consumer,2,False
+CUST1136,Andrew Butler,michaeldavis@hotmail.com,Consumer,3,False
+CUST1137,Scott Love DDS,brendagonzalez@atkins.org,Consumer,1,True
+CUST1138,William Jenkins,velazquezanita@yahoo.com,Corporate,4,True
+CUST1139,Jasmine Williams,allentyler@hill-smith.com,Home Office,2,True
+CUST1140,Christian Johnson,jonesashley@gmail.com,Consumer,1,True
+CUST1141,Lorraine Garcia,jvalencia@gmail.com,Corporate,4,False
+CUST1142,Hannah Reyes,juliacastillo@yahoo.com,Home Office,2,True
+CUST1143,Katherine Ibarra,xsalazar@gmail.com,Home Office,2,True
+CUST1144,Julie Chen,vincent73@hotmail.com,Home Office,3,False
+CUST1145,Caleb Fleming,ryan56@hotmail.com,Corporate,1,False
+CUST1146,Rachel Martinez,castillokelly@yahoo.com,Consumer,3,True
+CUST1147,Rebecca Stark,sarah25@perez-becker.biz,Consumer,4,False
+CUST1148,Melanie Patrick,kwhitney@hotmail.com,Consumer,1,True
+CUST1149,Rachel Lopez,fshaw@edwards.com,Consumer,3,True
+CUST1150,Jill Sherman,ostewart@joyce-johnston.com,Home Office,1,False
+CUST1151,Richard Jones,bakerjessica@gmail.com,Home Office,3,False
+CUST1152,Timothy Tucker,lauradiaz@benton.biz,Consumer,1,False
+CUST1153,Theresa Estrada,darrenjacobs@miller.com,Consumer,1,True
+CUST1154,Cindy Davis,ljones@perez.biz,Consumer,4,False
+CUST1155,Stacy Chan,grahampatrick@gmail.com,Corporate,4,False
+CUST1156,Jennifer Torres,aguilarjane@yahoo.com,Home Office,4,True
+CUST1157,Jeffery Knight,caitlindavis@gmail.com,Consumer,1,True
+CUST1158,Taylor Perry,andrew29@taylor.com,Consumer,1,True
+CUST1159,Raymond Navarro,hromero@garcia.info,Corporate,4,True
+CUST1160,Jeremy Parks,spencermorgan@yahoo.com,Consumer,2,True
+CUST1161,Thomas Rivers,gmiller@yahoo.com,Home Office,4,False
+CUST1162,Angela Jones,ewright@johnson-cummings.com,Corporate,3,True
+CUST1163,Allen Bailey,pwalker@yahoo.com,Corporate,4,False
+CUST1164,William Fuentes,cthomas@yahoo.com,Corporate,1,False
+CUST1165,Steven Clark,jgreene@hotmail.com,Consumer,4,True
+CUST1166,Michael Mays,kevinholmes@martinez.com,Consumer,1,True
+CUST1167,Adam Wood,mmyers@crawford-jackson.com,Consumer,4,True
+CUST1168,Larry Villarreal,jenniferwhite@hotmail.com,Corporate,4,True
+CUST1169,Brian Cooper,cynthiawilliamson@hotmail.com,Corporate,2,True
+CUST1170,Beverly Levy,fjohnson@bridges.com,Home Office,3,False
+CUST1171,John Carter,johnsawyer@walker.net,Corporate,2,True
+CUST1172,Tina Fields,nicole57@hotmail.com,Consumer,1,True
+CUST1173,Willie Garcia,nathanbridges@kim.info,Consumer,1,False
+CUST1174,Brooke Hurst,jeffreywilson@finley.info,Corporate,4,True
+CUST1175,Regina Stewart,janet06@miller.org,Home Office,1,True
+CUST1176,Paul Carter,cynthiayu@hotmail.com,Corporate,4,True
+CUST1177,Angel Anderson,iparker@jones.com,Corporate,1,False
+CUST1178,Blake Jones,xjensen@miller-johnson.com,Corporate,1,True
+CUST1179,Juan Yang,eric41@west.biz,Consumer,2,True
+CUST1180,Jay Walsh,jeremy94@gmail.com,Consumer,1,False
+CUST1181,Jeremy Wood,lesliesilva@brown-kaiser.info,Consumer,3,True
+CUST1182,Amy Ortiz,paul01@yahoo.com,Corporate,3,True
+CUST1183,Nicholas Flores,nicolewilson@wright-soto.com,Home Office,3,True
+CUST1184,Edward Ruiz,coopernathaniel@hotmail.com,Corporate,1,True
+CUST1185,Rebecca Hill,morganandrea@odonnell.com,Corporate,1,False
+CUST1186,Melissa Flynn,mauricecarney@hotmail.com,Consumer,3,False
+CUST1187,James Saunders,kingdalton@gmail.com,Consumer,1,False
+CUST1188,David Chavez,yjohnson@reed.com,Corporate,3,True
+CUST1189,Brenda Ford,raymondlynch@gonzales.com,Home Office,4,True
+CUST1190,Karen Harris,stevenedwards@hill.com,Consumer,3,False
+CUST1191,Michael Montgomery,kyle50@carr.com,Home Office,4,True
+CUST1192,Edwin Mack,tiffany88@grimes-davis.net,Home Office,4,False
+CUST1193,Kimberly Moore,millertiffany@yahoo.com,Corporate,1,True
+CUST1194,Kaitlin Gregory,john64@johnson.com,Corporate,2,False
+CUST1195,Crystal Gill,logan84@logan.net,Corporate,2,False
+CUST1196,William Martinez,carla66@aguilar-king.com,Home Office,2,False
+CUST1197,Amanda Scott,berickson@yahoo.com,Consumer,1,True
+CUST1198,Lauren Foster,halllindsey@johnson-miller.com,Consumer,1,True
+CUST1199,David Campbell,susansmith@fox-martinez.com,Corporate,4,False
